@@ -5,8 +5,8 @@ This does not promote any hacking releted issue in this Repo
 
 1️⃣ First Install the Latest Official Version (Do not install it from the Microsoft Store)
 
-2️⃣ 🎵 Run the following command in PowerShell:
-``` iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -new_theme" ```
+2️⃣ 🎵 Run the following command in PowerShell: <br>
+``` iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -new_theme" ``` <br>
 3️⃣ Enjoy Free Spotify Premium!
 
 
