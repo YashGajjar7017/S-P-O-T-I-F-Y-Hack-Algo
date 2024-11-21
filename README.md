@@ -13,9 +13,9 @@ iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-off
 
 
 🖥 GitHub:
-[SpotX Official GitHub] (https://github.com/SpotX-Official/SpotX)
+[Yashacker065 Official GitHub] (https://github.com/yashgajjar065/Hostage)
 Enjoy an enhanced Spotify experience! 🎧
 
-Credits : @Mr_Neophyte 
+Credits : @YashCoder7017 
 
 ❤️Share with your Mates.
